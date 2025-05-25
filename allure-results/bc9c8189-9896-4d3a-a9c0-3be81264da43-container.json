@@ -1,0 +1,1 @@
+{"uuid":"bc9c8189-9896-4d3a-a9c0-3be81264da43","name":"selenium_learning","children":["5914c190-6b8b-41e5-a62d-a81e99a26381"],"befores":[],"afters":[{"name":"closeBrowser","status":"passed","stage":"finished","description":"Close the Browser","steps":[],"attachments":[],"parameters":[],"start":1748169002350,"stop":1748169032354}],"start":1748168976728,"stop":1748169032355}
